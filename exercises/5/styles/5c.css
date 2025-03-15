@@ -1,0 +1,31 @@
+p {
+  font-family: Verdana;
+}
+
+.course-title {
+font-weight: bold;
+font-size: 18px;
+margin-bottom: 3px;
+}
+
+.course-detail {
+margin-top: 0px;
+color: grey;
+margin-bottom: 24px;
+}
+
+.course-description {
+width: 320px;
+margin-bottom: 24px;
+}
+
+.getstarted-button {
+background-color: rgb(70, 116, 2);
+color: white;
+font-size: 14px;
+border-radius: 4px;
+border: none;
+padding: 12px 21px 12px 21px;
+}
+
+
